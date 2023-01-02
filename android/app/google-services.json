@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089324986168",
+    "project_id": "theffy-ca373",
+    "storage_bucket": "theffy-ca373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089324986168:android:adcf4fcb71e4367971dbcd",
+        "android_client_info": {
+          "package_name": "com.theffy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089324986168-2opeamfg6vfgu5ddppphsfdkm16hsl2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCytddrxBw93RO-YY48DYgWNWnNuv72U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089324986168-2opeamfg6vfgu5ddppphsfdkm16hsl2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
