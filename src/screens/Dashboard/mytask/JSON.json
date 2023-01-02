@@ -1,0 +1,181 @@
+printitemdata {
+    "id": "190",
+    "user_id": "8",
+    "category": "4",
+    "category_name": "Delivery Man",
+    "title": "srgtreshghgss",
+    "file": "",
+    "descp": "sddddddddddddddddddddddddddddddddddd",
+    "musthave": "",
+    "tags": "",
+    "amounttype": "total",
+    "totalamt": "365",
+    "hours": "0",
+    "hoursamt": "0",
+    "locationtype": "location",
+    "loc_id": "2",
+    "location": "Ahmedabad, Gujarat, India",
+    "location2": "India Gate Metro bus Station, Shri Guru Amar Dass Nagar, Chheharta, Amritsar, Punjab, India",
+    "asap": "on",
+    "date": "0000-00-00",
+    "time": "00:00:00",
+    "mobile_s": "",
+    "mobile": "9638527412",
+    "email_s": "",
+    "email": "",
+    "publicly_s": "",
+    "tasker": "6",
+    "radio": "2,1",
+    "pick_lat": "31.6259987",
+    "pick_lng": "74.7780508",
+    "price": "110",
+    "transtion": "E7FRBDZVEU9N6",
+    "payment_status": "Paid",
+    "status": "1",
+    "adminstatus": "1",
+    "cancelstatus": "0",
+    "offerdone": "0",
+    "chap_id": null,
+    "offeramt": null,
+    "theffyAmt": "0",
+    "pyament_id": null,
+    "slug": "srgtreshghgss-731",
+    "created": "2021-07-10 03:25:42",
+    "username": "Ravi Singh",
+    "userimg": "assets/img/1619424825img_competitions.jpg"
+}
+
+
+
+
+
+
+userInfo Data\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+printitemdata {
+    "id": "6",
+    "user_name": "Praveen Singh",
+    "first_name": "Praveen",
+    "last_name": "Singh",
+    "address": "Ahmedabad, Gujarat, India",
+    "loc_id": "2",
+    "email": "praveen.singh9266@gmail.com",
+    "contact": "8085210252",
+    "password": "123456",
+    "about": "dsdsds sda as",
+    "rate": "200",
+    "dob": "2001-12-02",
+    "post_task": "yes",
+    "earn_money": "yes",
+    "facebook": "Https://Www.Facebook.Com/",
+    "twitter": "Https://Www.Facebook.Com/",
+    "instagram": "Https://Www.Facebook.Com/",
+    "linkedin": "Https://Www.Facebook.Com/",
+    "channel": "Https://Www.Facebook.Com/",
+    "active": "0",
+    "ext": "Help",
+    "country_code": "0",
+    "phone_number": "",
+    "mobile": null,
+    "account_type": "",
+    "account_status": "",
+    "profile_pic": "assets/img/1624108140about02.jpg",
+    "picture_url": "",
+    "remember_token": null,
+    "pick_lat": "22.2121",
+    "pick_lng": "25.2255",
+    "bank_holder": "Praveen Singh",
+    "bank_ac": "2444454545454",
+    "paypal_link": "Praveen.Singh9s26@Gmail.Com",
+    "stripe_link": "Praveen.Singh926@Gmail.Coms",
+    "institution": "6546465",
+    "transit": "454646465",
+    "ids_copy": "assets/img/ids/1618298894605da590e7b65.jpg",
+    "licence_copy": "assets/upload/USR-1623147495769.png",
+    "inquiry_id": "inq_cXV3oFBNcArYyYpTX3W5yA1Z",
+    "keys": "CODEX@123",
+    "oauth_provider": "",
+    "oauth_uid": "",
+    "status": "1",
+    "otp": "0",
+    "refercode": "radhe734361",
+    "refer": "",
+    "referstatus": "1",
+    "emailverify": "1",
+    "mobileverify": "0",
+    "licenceverify": "1",
+    "paymentverify": "1",
+    "slug": "Praveen-Singh-6",
+    "created_at": "2021-04-14 18:46:21",
+    "updated_at": "2021-07-14 08:40:14"
+}
+
+
+
+{
+    "config": {
+        "adapter": [Function xhrAdapter
+        ],
+        "data": {
+            "_parts": [Array
+            ]
+        },
+        "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Theffi-API-KEY": "Ram@123"
+        },
+        "maxBodyLength": -1,
+        "maxContentLength": -1,
+        "method": "post",
+        "timeout": 0,
+        "transformRequest": [
+            [Function transformRequest
+            ]
+        ],
+        "transformResponse": [
+            [Function transformResponse
+            ]
+        ],
+        "url": "https://theffy.com/newtheffy/Api/Post_Offered",
+        "validateStatus": [Function validateStatus
+        ],
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN"
+    },
+    "data": {
+        "error": "true",
+        "message": "Your are already offered for this job!"
+    },
+    "headers": {
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "content-length": "67",
+        "content-type": "application/json; charset=UTF-8",
+        "date": "Wed, 14 Jul 2021 13:25:07 GMT",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "pragma": "no-cache",
+        "server": "Apache",
+        "vary": "User-Agent"
+    },
+    "request": {
+        "DONE": 4,
+        "HEADERS_RECEIVED": 2,
+        "LOADING": 3,
+        "OPENED": 1,
+        "UNSENT": 0,
+        "_aborted": false,
+        "_cachedResponse": 
+    undefined,
+        "_hasError": false,
+        "_headers": {
+            "accept": "application/json, text/plain, */*",
+            "theffi-api-key": "Ram@123"
+        },
+        "_incrementalEvents": false,
+        "_lowerCaseResponseHeaders": {
+            "cache-control": "no-store, no-cache, must-revalidate",
+            "content-length": "67",
+            "content-type": "application/json; charset=UTF-8",
+            "date": "Wed, 14 Jul 2021 13:25:07 GMT",
+            "expires": "Thu, 19 Nov 1981 
+    08: 52: 00 GMT", "pragma": "no-cache", "server": "Apache", "vary": "User-Agent"}, "_method": "POST", "_perfKey": "network_XMLHttpRequest_https: //theffy.com/newtheffy/Api/Post_Offered", "_performanceLogger": {"_closed": false, "_extras": [Object], "_pointExtras": [Object], "_points": [Object], "_timespans": [Object]}, "_requestId": null, "_response": "{\"message\":\"Your are already offered for this job!\",\"error\":\"true\"}", "_responseType": "", "_sent": true, "_subscriptions": [], "_timedOut": false, "_trackingName": "unknown", "_url": "https://theffy.com/newtheffy/Api/Post_Offered", "readyState": 4, "responseHeaders": {"cache-control": "no-store, no-cache, must-revalidate", "content-length": "67", "content-type": "application/json; charset=UTF-8", "date": "Wed, 14 Jul 2021 13:25:07 GMT", "expires": "Thu, 19 Nov 1981 08:52:00 GMT", "pragma": "no-cache", "server": "Apache", "vary": "User-Agent"}, "responseURL": "https://theffy.com/newtheffy/Api/Post_Offered", "status": 200, "timeout": 0, "upload": {}, "withCredentials": true}, "status": 200, "statusText": undefined}
